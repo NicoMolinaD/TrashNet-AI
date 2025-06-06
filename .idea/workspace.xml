@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cb02341-b371-4a9c-bcd0-334378bc0f42" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/TrashNet AI.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TrashNet.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="6cb02341-b371-4a9c-bcd0-334378bc0f42" name="Changes" comment="Push actividad" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "NicoMolinaD"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/NicoMolinaD/TrashNet-AI.git",
+    "accountId": "eac31cec-c0dc-4edc-bb5c-7892eb50402f"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -65,11 +70,24 @@
       <option name="presentableId" value="Default" />
       <updated>1749157684498</updated>
       <workItem from="1749157685511" duration="1763000" />
-      <workItem from="1749160313108" duration="8054000" />
+      <workItem from="1749160313108" duration="8236000" />
     </task>
+    <task id="LOCAL-00001" summary="Push actividad">
+      <option name="closed" value="true" />
+      <created>1749171831734</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1749171831734</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Push actividad" />
+    <option name="LAST_COMMIT_MESSAGE" value="Push actividad" />
   </component>
 </project>
